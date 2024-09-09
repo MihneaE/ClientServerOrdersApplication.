@@ -1,2 +1,2 @@
 # ClientServerOrdersApplication.
-This is a client-server application made by me in Java using JavaFX, SQLite and and maven technologies. This is the most complex application made by me. 
+This is a client-server application that I made in Java using JavaFX, SQLite and Maven technologies. This is the most complex application made by me. 
